@@ -164,6 +164,8 @@ public class LaunchGame
 		umpire.getNoFromGuesser();
 		umpire.getNoFromPlayer();
 		umpire.compare();
+		
+		System.out.println("Ending");
 	}
 
 }
